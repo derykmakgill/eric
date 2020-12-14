@@ -5,6 +5,8 @@ title: Home
 
 # Latest
 
+<img src="/web/20050701003621im_/http://www.catb.org/~esr/graphics/esr002.png" align="right" alt="" width="128" height="131">
+
 Welcome to my piece of the Web. I maintain quite a lot of [open-source](http://www.opensource.org) software, FAQs, and HTML documents, so this site is rather complex. It's mostly validated HTML and light on the graphics, though. You won't have to wait an eon for any of the pages to load.
 
 If the software and FAQs I maintain are valuable to you (and especially if my software makes you money) please leave me a tip at [Patreon](https://www.patreon.com/esr) or [SubscribeStar](https://www.subscribestar.com/esr).
