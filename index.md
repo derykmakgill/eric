@@ -5,7 +5,7 @@ title: Home
 
 # Latest
 
-<img src="/web/20050701003621im_/http://www.catb.org/~esr/graphics/esr002.png" align="right" alt="" width="128" height="131">
+<img src="eric/assets/img/makgill-censored.jpg" align="right" alt="" width="128" height="131">
 
 Welcome to my piece of the Web. I maintain quite a lot of [open-source](http://www.opensource.org) software, FAQs, and HTML documents, so this site is rather complex. It's mostly validated HTML and light on the graphics, though. You won't have to wait an eon for any of the pages to load.
 
